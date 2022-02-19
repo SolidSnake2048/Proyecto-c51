@@ -1,0 +1,33 @@
+h1{
+    color:darkslategrey;
+    font-family:'Courier New', Courier, monospace;
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.origami{
+    border-radius: 20px;
+    background-color: white;
+
+    width: 310px;
+    font-family: fantasy;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+body{
+    margin: 0px;
+    background-color: whitesmoke;
+}
+.aboutimg{
+    margin:50px;
+    background-color: aquamarine;
+}
